@@ -1,0 +1,111 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    /* background: linear-gradient(90deg, rgba(18, 47, 173, 0.76),rgb(18, 1, 24)); */
+    background-image: url(mountains-best-for-desktop-background-wallpaper-preview.jpg);
+    background-size: cover;
+
+}
+.actionapp{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+background-color: aliceblue;
+box-shadow: 5px 5px 5px black;
+border-radius: 5px;
+margin: 30vh;
+border-radius: solid white 5px;
+width: 30rem;
+}
+h1{
+    font-family: "Press Start 2P", "sans-serif";
+    font-size: 30px;
+    margin-top: 2vh;
+    color: rgb(71, 35, 126);
+    font-weight: bold;
+    text-align: center;
+}
+input::placeholder{
+   text-align: center;
+   color: rgb(67, 125, 106);
+   font-size: 15px;
+   font-weight: bold;
+}
+.line{
+    text-align:center;
+    /* margin: 10vh; */
+align-self: center;
+justify-self: center;
+/* background-color: aliceblue; */
+width: 30rem;
+height: 10rem;
+padding-top: 20px
+}
+#name-box{
+    width: 90%; 
+     margin: 10px; 
+    padding: 3px;
+  
+}
+#email-box{
+        width: 90%; 
+         margin: 10px; 
+        padding: 3px;
+       
+    }
+
+
+.btn{
+    color: rgb(84, 160, 134);
+    background-color: black;
+    border-radius: 33px;
+    width: 100px;
+    margin-top: 2vh;
+    height:40px;
+  
+}
+button{
+    cursor: pointer;
+}
+
+table{
+    border: 3px solid black;
+}
+#Table{
+    /* margin: 30vh ;
+    margin-right: 20vh; */
+    margin-top: 30vh;
+    margin-right: 30vh;
+border: solid white 2px;
+border-radius: 5px;
+    background-color: rgba(37, 36, 36, 0.247);
+    width: 30rem;
+    height: fit-content;
+}
+td{
+    border: 2px solid white;
+    font-size: 19px;
+    padding: 10px;
+    font-weight: 30px;
+
+}
+.t1{
+    border: solid white;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.container{
+display: flex;
+/* border-radius: solid white 5px; */
+width: 100vw;
+height: 100vh;
+}
+/* what is cloud computing */
+/* what are the main provider about cloud computing */
